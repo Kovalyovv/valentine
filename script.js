@@ -1,9 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
     // ===== CONFIGURATION =====
-    
-    // 1. Set the date when the relationship STARTED.
-    // This MUST be a date in the past.
+
     const relationshipStartDate = new Date("2025-05-20T22:00:00");
 
     // 2. Add the UNIQUE ID of each photo from Google Drive here.
